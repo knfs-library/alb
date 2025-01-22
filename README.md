@@ -53,9 +53,9 @@ This code sets up a load balancer with the specified configurations. The alb mod
 ## Configuration
 You can customize the following options in the configuration object:
 
-- max: Maximum number of worker processes (default: number of CPU cores available).
-- min: Minimum number of worker processes to maintain (default: 2).
-- idleTime: Maximum idle time (in milliseconds) for a worker before it is terminated (default: 30,000ms).
+- **max**: Maximum number of worker processes (default: number of CPU cores available).
+- **min**: Minimum number of worker processes to maintain (default: 2).
+- **idleTime**: Maximum idle time (in milliseconds) for a worker before it is terminated (default: 30,000ms).
 
 ## Author
 * [Kent Phungg](https://github.com/khapu2906)
