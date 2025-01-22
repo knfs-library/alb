@@ -56,6 +56,7 @@ You can customize the following options in the configuration object:
 - **max**: Maximum number of worker processes (default: number of CPU cores available).
 - **min**: Minimum number of worker processes to maintain (default: 2).
 - **idleTime**: Maximum idle time (in milliseconds) for a worker before it is terminated (default: 30,000ms).
+- **log**: <boolean> Log when run
 
 ## Author
 * [Kent Phungg](https://github.com/khapu2906)
