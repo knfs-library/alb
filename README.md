@@ -59,7 +59,7 @@ You can customize the following options in the configuration object:
 - **log**: <boolean> Log when run
 
 ## Author
-* [Kent Phungg](https://github.com/khapu2906)
+* [Kent Phung](https://github.com/khapu2906)
   
 ## Owner
 * [Knfs.,jsc](https://github.com/knfs-library)

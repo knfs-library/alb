@@ -1,7 +1,7 @@
 {
   "name": "@knfs-tech/alb",
-  "version": "1.0.3",
-  "description": "module",
+  "version": "1.0.5",
+  "description": "This package implements a simple application load balancer (ALB) using Node.js's `cluster` module. It helps distribute incoming requests across multiple worker processes while maintaining configurable settings for minimum, maximum, and idle time for workers. This is ideal for scaling applications on multi-core systems.",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "exports": {
