@@ -1,5 +1,14 @@
 
 <h1> <span style="color:#013C4D;">About</span> <span style="color:#2B7F84;">Knfs ALB</span></h1>
+<a href="https://img.shields.io/github/license/knfs-library/alb" alt="License">
+	<img src="https://img.shields.io/github/license/knfs-library/alb" alt="License" />
+</a>
+<a href="https://img.shields.io/github/contributos/knfs-library/alb" alt="License">
+	<img src="https://img.shields.io/github/contributors/knfs-library/alb" alt="License" />
+</a>
+<a href="https://img.shields.io/github/languages/code-size/knfs-library/alb" alt="License">
+	<img src="https://img.shields.io/github/languages/code-size/knfs-library/alb" alt="License" />
+</a>
 
 ### A simple application load balancer (ALB) for Node.js
 
